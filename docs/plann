@@ -1,0 +1,56 @@
+pages
+	readme
+	conceptualization
+		- fill out the top
+			Who your users are 
+				group & classify
+				"personas"
+			Why they want to use your app
+			What information they interact with
+			How they can interact with the data
+			big picture constraints
+				users
+				markets
+				technology
+				budget
+	user stories
+		- fill out user stories
+			per personna
+			sub-lists for system requirements
+			constraints
+				techs
+
+		design choices
+			ie. "in the same window"
+		map to stories
+	story & requirements dependencies graph
+	wireframe
+	system architecture
+		- big picutre
+			how things will connect
+			how things will happen
+			how things display
+			our data is
+				an image
+				css files
+		constraints
+			have to use flexbox
+			because of systems we are using
+		into consdieration
+			requirements
+			constraints
+			document it
+		ie
+			where do the images come from
+				in a folder? remotely?
+			data model
+				levels & puzzles
+				# of levels
+	sprint planning
+		note they are grouped into related sprints
+			this came first in user-sotires
+	functional specs
+
+
+
+
